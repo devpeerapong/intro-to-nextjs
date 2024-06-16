@@ -1,0 +1,16 @@
+{
+	"posts": [
+		{
+			"id": "1",
+			"title": "Built-in React Hooks"
+		},
+		{
+			"id": "2",
+			"title": "Vite is now powered by Rollup 4"
+		},
+		{
+			"id": "3",
+			"title": "Next.js 15 RC"
+		}
+	]
+}
