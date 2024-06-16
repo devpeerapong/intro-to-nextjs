@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "serve -c serve.json -p 5000 -s"
+		"start": "serve -c serve.json -p 5000"
 	},
 	"keywords": [],
 	"author": "",
