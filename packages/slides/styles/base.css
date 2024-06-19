@@ -1,0 +1,7 @@
+.check li::marker {
+  content: "✅";
+}
+
+.cross li::marker {
+  content: "❌";
+}
